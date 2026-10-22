@@ -1,2 +1,2 @@
 # Sfumato-App
-Sito di supporto, privacy e termini di Sfumato, l'app per insegnanti.
+Support, privacy and terms for Sfumato, the app for teachers.
